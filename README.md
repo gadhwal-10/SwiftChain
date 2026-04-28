@@ -6,7 +6,7 @@ A production-grade full-stack SaaS platform for optimizing city-level deliveries
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.4-blue?logo=typescript)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-7-red?logo=redis)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-4.7-black?logo=socket.io)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-4.7-black?logo=socket.io)SwiftChain is a full-stack delivery orchestration system that optimizes city-level logistics from a single warehouse by automating order management, rider assignment, route optimization, and real-time tracking. It uses smart algorithms and live data to enable faster, efficient, and reliable deliveries.
 
 ## 🚀 Quick Start
 
@@ -41,6 +41,11 @@ npx prisma db seed          # Seed demo data
 npm run dev
 ```
 Open [http://localhost:3000](http://localhost:3000) — you'll be redirected to the dashboard.
+
+## 🖼️ Screenshot
+
+<img width="1610" height="412" alt="Screenshot from 2026-04-28 12-23-04" src="https://github.com/user-attachments/assets/e3825f2d-6f29-40d8-b1d6-a66bdaf3d374" />
+
 
 ## 🏗️ Architecture
 
